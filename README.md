@@ -113,15 +113,14 @@ Follow these instructions to get a copy of the project up and running on your lo
     -   The first code cell will automatically install all the necessary Python packages using `pip`.
     -   **Important:** After the first cell finishes, **restart the kernel** from the menu (`Kernel` > `Restart`) before running the rest of the notebook. This ensures all newly installed libraries are correctly loaded.
 
-## File Structure
 
-The project is organized into a few key files:
+## Dataset
 
--   `fake_news_detection_system.ipynb`: The main Jupyter Notebook containing the entire data science workflow, from data loading to the final conclusion.
--   `fake_news_detection_system.zip`:
-      - `true.csv`: The dataset containing real news articles.
-      - `fake.csv`: The dataset containing fake news articles.
--   `README.md`: This file.
+The dataset used for this project is large and is not included directly in this repository. You can download it from the following Kaggle link:
+
+-   **Fake News Detection Dataset:** [https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection](https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
+
+Once downloaded, you will find the `true.csv` and `fake.csv` files which are required to run the notebook.
 
 ## License
 
