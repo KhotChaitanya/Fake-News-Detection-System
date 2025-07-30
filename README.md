@@ -117,8 +117,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 The project is organized into a few key files:
 
--   `Fake_News_Detection_System.ipynb`: The main Jupyter Notebook containing the entire data science workflow, from data loading to the final conclusion.
--   `dataset.zip`:
+-   `fake_news_detection_system.ipynb`: The main Jupyter Notebook containing the entire data science workflow, from data loading to the final conclusion.
+-   `fake_news_detection_system.zip`:
       - `true.csv`: The dataset containing real news articles.
       - `fake.csv`: The dataset containing fake news articles.
 -   `README.md`: This file.
